@@ -1,5 +1,3 @@
-👋 Hi, I’m @PandaWuu  
-👀 I’m interested in qemu,storage,sdn,docker,linux,golang  
-🌱 I’m currently learning baremetal,disaster-tolerance,spdk  
-💞️ I’m looking to collaborate on cloud ecological construction  
-📫 How to reach me: pandawuu@163.com
+![ElainaForever's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElainaForever&show_icons=true&theme=radical)
+
+![ElainaForever's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ElainaForever&layout=compact&theme=transparent)
